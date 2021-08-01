@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0T+l0J+FDCxpfKLo7DDarjfARyzJz+iUGLoLpAnasvBdwl4Lbs4KlFywTipdTjvkf3HMaK+75m60myHzxpA+lg==",
+  "dgSpecHash": "8zOweust5zz7os9/sF50nON+1G1IIvUZR1EA/VZw2GHdIy0CNyiY5qe15kjc3QJx/mhpK9stNrILoWIsTOOc1g==",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\Desktop\\ls\\Employees-list-server\\server\\Employees.api\\Employees.api\\Employees.api.csproj",
   "expectedPackageFiles": [
@@ -63,6 +63,7 @@
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.5\\microsoft.visualstudio.web.codegeneration.3.1.5.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\3.1.5\\microsoft.visualstudio.web.codegeneration.contracts.3.1.5.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\3.1.5\\microsoft.visualstudio.web.codegeneration.core.3.1.5.nupkg.sha512",

@@ -47,7 +47,7 @@ namespace Employees.api
             services.AddSingleton<IMongoClient>(serviceProvider =>
             {
                 var settings = Configuration.GetSection(nameof(MongoDbSettings)).Get<MongoDbSettings>();
-                return new MongoClient(settings.ConnectionString);
+                return settings.Client;
             });
             services.AddSingleton<IEmployeesRepository, EmployeesRepository>();
             services.AddSingleton<IUsersRepository, UsersRepository>();
